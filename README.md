@@ -10,10 +10,12 @@
 <a href="https://t.me/rktechnoindians"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐁(𝐥)𝐮𝐭𝐭𝐞𝐫-𝐢𝐧-𝐓𝐞𝐫𝐦𝐮𝐱" /></a>
  </p>
 
+## Original Source
+[![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/dedshit/blutter-termux)
 
 
-
-## Installation Commands
+## Installation Commands ( Redirect [![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/dedshit/blutter-termux)
+ )
 ```python
 curl -s https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh | bash
 ```
